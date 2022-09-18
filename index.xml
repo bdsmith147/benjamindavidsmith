@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>The Everyday Quantum Mechanic</title>
+        <title>Benjamin D. Smith · The Everyday Quantum Mechanic</title>
         <link>https://www.everydayquantummechanic.com/</link>
-        <description>This is My New Hugo Site</description>
+        <description>Personal academic website for Benjamin D. Smith</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 30 Apr 2022 14:59:15 -0600</lastBuildDate>
             <atom:link href="https://www.everydayquantummechanic.com/index.xml" rel="self" type="application/rss+xml" />
         </channel>
