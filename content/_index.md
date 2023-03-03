@@ -6,46 +6,85 @@ ___
 
 
 # Education
-**University of Alberta** (Edmonton, Alberta, Canada) \
-*2016 - Present*
-* Ph.D. in Physics
-* Supervisor: Professor [Lindsay J. LeBlanc](https://sites.google.com/ualberta.ca/ultracold)
+{{< admonition type=success title="Doctor of Philosophy Candidate in Physics" open=true >}}
+University of Alberta, Department of Physics \
+Edmonton, Alberta, Canada \
+*2016 - Present* 
+* GPA: 3.64/4.00
+* Supervisor: Professor Lindsay J. LeBlanc [[link](https://sites.google.com/ualberta.ca/ultracold)]
+{{< /admonition >}}
 
 
 
-**Brigham Young University** (Provo, Utah, USA) \
-*2009 - 2015*
+{{< admonition type=success title="Bachelor of Science in Physics, cum laude" open=true >}}
+Brigham Young University, Department of Physics and Astronomy \
+Provo, Utah, USA \
+*2009 - 2015*  
+* GPA: 3.87/4.00 
+* Minors: Mathematics, Music 
+* Senior Thesis: Reflectance Measurements of Two Thin Film Materials in the UV [[link](https://physics.byu.edu/department/theses/turley/2015)] 
+{{< /admonition >}}
 
-* B.Sc. in Physics, *cum laude*
-* Minors: Mathematics, Music
-* Advisors: [Professors R. Steven Turley](https://physics.byu.edu/faculty/turley/home) & [David D. Allred](https://physics.byu.edu/department/directory/allred)
 
-
+---
 
 # Research Positions
-**Ultracold Quantum Gas Lab** \
-*September 2016 -- present*
-* Mentor: Professor Lindsay J. LeBlanc (University of Alberta)
-
-**Thin Films and EUV Optics Lab** \
-*April 2014 -- August 2015*
-* Mentors: Professors R. Steven Turley & David D. Allred (Brigham Young University)
-
-**XRD and Crystallography Lab** \
-*October 2013 -- April 2014*
-* Mentor: Professor Branton J. Campbell (Brigham Young University)
-
-
-### Career Interruptions
-Full-time volunteer missionary for the Church of Jesus Christ of Latter-day Saints.\
-*July 2011 -- July 2013*
+{{< admonition type=tip title="Graduate Research Assistant" open=true >}}
+Department of Physics, University of Alberta \
+Supervisor: Professor Lindsay J. LeBlanc \
+*2016 -- Present* 
+* Upgraded a warm-atom microwave cavity system and performed experiments in nonlinear optics, microwave-to-optical conversion, and magnetometry.
+* Developed ‘Spinor-GPE‘, an open-source Python package for GPU accelerated solutions to the two-component, nonlinear Schrodinger equation, with applications for spin-orbit coupled Bose-Einstein condensates (BECs). [[link](https://github.com/ultracoldYEG/spinor-gpe)]
+* Operated an ultracold 87Rb BEC apparatus for experiments in quantum memory and spin-orbit coupling.
+{{< /admonition >}}
 
 
 
-# Honors and Scholarships
-* 2018, *The Queen Elizabeth II Graduate Scholarship - Doctoral level* (The Government of Alberta). Value: $7,500 CAD.
-* 2016, *Doctoral Recruitment Scholarship* (University of Alberta Faculty of Graduate Studies and Research). Value: $20,000 CAD.
-* 2016, *Dean’s Excellence Recruitment Scholarship Award* (University of Alberta Faculty of Science). Value: $5,000 CAD.
+{{< admonition type=tip title="Undergraduate Research Assistant" open=true >}}
+Brigham Young University, Department of Physics and Astronomy \
+Supervisors: Professors R. Steven Turley & David D. Allred \
+*2014 -- 2015*
+* Refurbished a discharge light source for generating the 30.4 nm extreme ultraviolet (EUV) helium emission line.
+* Recommissioned a monochrometer for vacuum ultraviolet reflectance measurements of thin film aluminum
+* Collected EUV reflectance data of thin film Y2O3 samples at the Advanced Light Source; fit a reflectance model to extract the film optical constants.
+{{< /admonition >}}
+
+{{< admonition type=tip title="Undergraduate Research Assistant" open=true >}}
+Brigham Young University, Department of Physics and Astronomy \
+Supervisor: Professor Branton J. Campbell [[link](https://physics.byu.edu/faculty/campbell/home)] \
+*2013 -- 2014*
+* Calculated and tabulated thermal position distributions of crystal ions in various point symmetries.
+{{< /admonition >}}
+
+---
+
+# Teaching Experience
+
+{{< admonition type=example title="Adjunct Instructor" open=true >}}
+Brigham Young University - Idaho, Department of Physics \
+*January -- July 2016*
+* PHYS 150: Beginning Physics Lab (Winter & Spring 2016).
+* PHYS 121: Principles of Physics 1 (Spring 2016).
+* PHYS 220: Principles of Physics 3 (Winter 2016).
+{{< /admonition >}}
+
+
+{{< admonition type=example title="Teaching Assistant" open=true >}}
+University of Alberta, Department of Physics \
+*September 2016 -- December 2018*
+* PHYS 292: Experimental Physics for Engineers (2018).
+* PHYS 295: Experimental Physics I (2017).
+* PHYS 372: Quantum Mechanics A (2017).
+* PHYS 130: Wave Motion, Optics, and Sound (2016).
+{{< /admonition >}}
+
+{{< admonition type=example title="Teaching Assistant" open=true >}}
+Brigham Young University, Department of Physics and Astronomy \
+*January 2014 -- August 2015*
+* PHYS 245: Experiments in Contemporary Physics (2015).
+* PHYS 108: General Physics Lab 2 (2014).
+* PHYS 123: Introduction to Waves, Optics, and Thermodynamics (2014).
+{{< /admonition >}}
 
 
 # Publications
@@ -59,62 +98,12 @@ Erhan Saglamyurek, Taras Hrushevskyi, Anindya Rastogi, Logan W Cooke, Benjamin D
 Joseph B. Muhlestein, Benjamin D. Smith, Margaret Miles, Stephanie M. Thomas, Anthony Willey, David D. Allred, R. Steven Turley. *Optics Express* **27.3** (2019): 3324-3336.
 
 
-# Teaching Experience
-**Adjunct Instructor** (Brigham Young University - Idaho) \
-*January -- July 2016*
-* PHYS 150: Beginning Physics Lab (Winter & Spring 2016).
-* PHYS 121: Principles of Physics 1 (Spring 2016).
-* PHYS 220: Principles of Physics 3 (Winter 2016).
-
-**Teaching Assistant** (University of Alberta) \
-*September 2016 -- December 2018*
-* PHYS 292: Experimental Physics for Engineers (2018).
-* PHYS 295: Experimental Physics I (2017).
-* PHYS 372: Quantum Mechanics A (2017).
-* PHYS 130: Wave Motion, Optics, and Sound (2016).
-
-**Teaching Assistant** (Brigham Young University) \
-*January 2014 -- August 2015*
-* PHYS 245: Experiments in Contemporary Physics (2015).
-* PHYS 108: General Physics Lab 2 (2014).
-* PHYS 123: Introduction to Waves, Optics, and Thermodynamics (2014).
-
-# Contributed Conference and Poster Presentations
-*  "Multimode microwave-to-optical conversion in warm $^{87}{\rm Rb}$ atoms". *The 27th International Conference on Atomic Physics* (July 2022 in Toronto, ON). [Poster Presentation]
-
-* "'Quantum Mechanics and You': Connecting to the Everyday."  *NanoCanada, From Earth to Space.* (June 2022 in Edmonton, AB). [Conference presentation].
-
-* "Toward a spin tensor momentum coupled Bose Einstein condensate."  *Canadian Association of Physicists (CAP) Congress.* (June 2021, virtual). [Poster Presentation].
-
-* "Toward a spin tensor momentum coupled Bose Einstein condensate."  *52nd Annual Meeting of the APS Division of Atomic, Molecular and Optical Physics (DAMOP)* ( June 2021, virtual). [Poster Presentation].
-
-* "GPU Acceleration in Python for Simulations of Spinor BECs." *51st Annual Meeting of the APS Division of Atomic, Molecular and Optical Physics (DAMOP).* (June 2020, virtual). [Poster Presentation].
-
-* "AC synthetic gauge potentials in ultracold atoms." *International Conference on Quantum Fluids and Solids.* (August 2019 in Edmonton, AB). [Poster presentation].
-
-* "AC synthetic gauge potentials in ultracold atoms." *Quanta CREATE Student Symposium.* (July 2019 in Edmonton, AB). [Poster presentation].
-
-* "AC synthetic gauge potentials in ultracold atoms." *Quantum Alberta Workshop.* (July 2019 in Edmonton, AB). [Poster presentation].
-
-* "Synthetic electromagnetic forces in ultracold atoms." *50th Annual Meeting of the APS Division of Atomic, Molecular and Optical Physics (DAMOP).* (June 2019 in Milwaukee, WI). [Conference presentation].
-
-* "AC synthetic gauge potentials in ultracold atoms."  *50th Annual Meeting of the APS Division of Atomic, Molecular and Optical Physics (DAMOP).* (June 2019 in Milwaukee, WI). [Poster presentation].
-
-* "How to engineer a BEC’s kinetic energy: Techniques in quantum simulation."
-*Quanta CREATE Student Symposium.* (July 2018 in Calgary, AB). [Conference presentation].
-
-* "Quantum Simulation via a Raman-coupled BEC of 87-Rb." *Quantum Alberta Workshop.* (July 2018 in Calgary, AB). [Poster presentation].
-
-* "Quantum Simulation via a Raman-coupled BEC of 87-Rb." *Quanta CREATE Student Symposium.* (July 2018 in Calgary, AB). [Poster presentation].
-
-* "Spin-orbit coupling and superfluidity in ultracold quantum gases."  *49th Annual Meeting of the APS Division of Atomic, Molecular and Optical Physics (DAMOP).* (June 2018 in Ft. Lauderdale, FL). [Poster Presentation].
-
-* "Making physics possible: The case for systematic assessment of learning and active learning practices in the university physics classroom." *University of Alberta GPSA Annual Symposium for Graduate Physics Research.* (October 2016 in Edmonton, AB). [Conference Presentation].
-
-* "Plasma light source for extreme ultraviolet reflectance."  *BYU College of Physical and Mathematical Sciences Student Research Conference.* (March 2015 in Provo, UT). [Conference presentation].
-
-* "Representational analysis of thermal vibrations in crystals."  *BYU College of Physical and Mathematical Sciences Student Research Conference.* (March 2014 in Provo, UT). [Conference presentation].
-
+# Awards and Scholarships
+* 2018, *The Queen Elizabeth II Graduate Scholarship - Doctoral level* (The Government of Alberta). Value: $7,500 CAD.
+* 2016, *Doctoral Recruitment Scholarship* (University of Alberta Faculty of Graduate Studies and Research). Value: $20,000 CAD.
+* 2016, *Dean’s Excellence Recruitment Scholarship Award* (University of Alberta Faculty of Science). Value: $5,000 CAD.
+* 2014, *Alvina Soffel Barrett Undergraduate Academic Scholarship* (Brigham Young University). Value: $2,500 USD.
+* 2009, *Undergraduate Academic Scholarship* (Brigham Young University). Value: $4,290 USD.
 ___
 
-*Updated September 17, 2022*
+*Updated November 19, 2022*

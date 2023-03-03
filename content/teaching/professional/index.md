@@ -122,10 +122,13 @@ d) $ 1 / 4 $
 ##### Microteaching Challenge
 For the microteaching challenge, I designed and delivered a lesson plan which follows best practices of scholarly teaching and learning, all within a compressed, five-minute time frame. The goal was to present the very first class session of PHYS 111: teaching a single concept and giving a flavor of what the course would be like.
 
+
+{{< youtube mgmY8w_Q9ec >}}
+<!--
 Included below are two peer feedback letters commenting on my microteaching presentation:
 * [Feedback letter #1](feedback1.pdf)
 * [Feedback letter #2](feedback2.pdf)
-
+-->
 
 [^1]: Mark Kissel, “The UnEssay,” [https://marckissel.netlify.app/post/on-the-unessay/](https://marckissel.netlify.app/post/on-the-unessay/), accessed April 28, 2022.
 

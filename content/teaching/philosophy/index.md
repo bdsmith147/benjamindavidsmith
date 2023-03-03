@@ -1,4 +1,5 @@
 ---
+weight: 1
 title: "Philosophy"
 date: 2022-03-26T16:45:45-06:00
 draft: false

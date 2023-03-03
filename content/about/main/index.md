@@ -4,7 +4,7 @@ date: 2022-04-05T12:47:27-06:00
 draft: false
 ---
 
-![Benjamin D. Smith](Portrait.jpg)
+![Benjamin D. Smith](Portrait_2022.jpg)
 
 
 The following sections describe three interrelated and indivisible aspects of my life. Each component informs and enriches the others.
