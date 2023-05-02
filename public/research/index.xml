@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Benjamin D. Smith · The Everyday Quantum Mechanic</title>
+    <link>https://www.everydayquantummechanic.com/research/</link>
+    <description>Recent content on Benjamin D. Smith · The Everyday Quantum Mechanic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Mar 2022 21:11:55 -0600</lastBuildDate><atom:link href="https://www.everydayquantummechanic.com/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://www.everydayquantummechanic.com/research/main/</link>
+      <pubDate>Mon, 21 Mar 2022 21:11:55 -0600</pubDate>
+      
+      <guid>https://www.everydayquantummechanic.com/research/main/</guid>
+      <description>This page is under construction 🛠️ Come back soon!    Symbol Meaning     😎 Rock-star Lay-person description   🤓 Nerd Expert description     Publications Presentations Projects</description>
+    </item>
+    
+    <item>
+      <title>Presentations</title>
+      <link>https://www.everydayquantummechanic.com/research/presentations/</link>
+      <pubDate>Mon, 21 Mar 2022 21:11:55 -0600</pubDate>
+      
+      <guid>https://www.everydayquantummechanic.com/research/presentations/</guid>
+      <description>This page is under construction 🛠️ Oral Talks   Posters This section includes some of the research posters I have created during my PhD program.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://www.everydayquantummechanic.com/research/projects/</link>
+      <pubDate>Mon, 21 Mar 2022 21:11:55 -0600</pubDate>
+      
+      <guid>https://www.everydayquantummechanic.com/research/projects/</guid>
+      <description> This page is under construction 🛠️ Come back soon! Projects: 💻 💡 📐 ⚙️ 🔩
+  </description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://www.everydayquantummechanic.com/research/publications/</link>
+      <pubDate>Mon, 21 Mar 2022 21:11:55 -0600</pubDate>
+      
+      <guid>https://www.everydayquantummechanic.com/research/publications/</guid>
+      <description>This page describes some of the research publications I have been priviledged to coauthor. I want all visitors to feel comfortable on this website. To do that, I&amp;rsquo;ll briefly summarize each publication in a way that&amp;rsquo;s targeted to:
+ The average cool person 😎, and to Experts in the field 🤓.  1. GPUs for Physics Citation:
+ Smith, Benjamin D., Logan W. Cooke, and Lindsay J. LeBlanc. &amp;ldquo;GPU-accelerated solutions of the nonlinear Schrödinger equation for simulating 2D spinor BECs.</description>
+    </item>
+    
+  </channel>
+</rss>
