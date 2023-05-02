@@ -1,20 +1,25 @@
 ---
-title: "Professional Development"
+title: "Professional Developement"
 date: 2022-03-26T16:45:45-06:00
 draft: false
 math: true
 ---
-# GTLP
+{{< figure src="gtl-banner.png" width=300 alt="GTL Program" >}}
 
-As a PhD student at the University of Alberta, I participated in the [Graduate Teaching and Learning Program](https://www.ualberta.ca/graduate-studies/professional-development/graduate-teaching-and-learning-program/index.html) (GTLP). This program is designed to help graduate students learn and engage with best practices and the scholarship of teaching, learning, and course design. It supports graduate students in their development as educators and future primary instructors.
+As a PhD student at the University of Alberta, I participated in the [Graduate Teaching and Learning Program](https://www.ualberta.ca/graduate-studies/professional-development/graduate-teaching-and-learning-program/index.html) (GTLP). This program is designed to help graduate students learn and engage with **best practices and the scholarship of teaching, learning, and course design**. It supports graduate students in their development as educators and future primary instructors.
 
 :small_orange_diamond: I have completed Levels 1, 2, and 3 of GTLP.
 
-___
 
 The following are several artifacts from my participation in GTLP Level 3, produced between January to April 2022:
+1. [Custom Course Outline & Syllabus](#1-custom-course-outline--syllabus-quantum-mechanics-and-you)
+2. [Assignment and Rubric](#2-assignment-and-rubric)
+3. [Multiple Choice Quiz](#3-multiple-choice-quiz)
+4. [Microteaching](#4-microteaching-challenge)
 
-##### Course Outline & Syllabus: Quantum Mechanics and You
+___
+
+##### 1. Custom Course Outline & Syllabus: Quantum Mechanics and You
 
 In GTLP Level 3, I designed and outlined a university course for incoming freshman students from all over campus. Throughout this process I considered various situational factors of students.
 
@@ -26,7 +31,10 @@ Despite being the center of some of the “hottest” and most disruptive advanc
 In its essence, quantum mechanics is the set of principles describing the physical nature of the universe’s smallest bits of matter and energy. Discovering these rules, and applying them to make powerful predictions have - in a large part - enabled our modern world, and will continue to transform the human experience.
 
 Quantum mechanics is currently at a watershed moment. Never before have there been so many accessible learning resources and real-world applications and opportunities. This course represents an attempt to open these learning opportunities to a wider audience. It is based on the assumption that anyone with interest and dedication can appreciate and begin to learn quantum mechanics. This course is organized in modules around (1) various quantum mechanical principles and (2) their applications, without getting into heavy mathematical formalisms.
+
+[![Course Description](description-video-button.png)](https://www.youtube.com/watch?v=3Kp8BgHh0tY)
 {{< /admonition >}}
+
 
 {{< admonition type=tip title="Course Learning Objectives" open=false >}}
 1. Expand knowledge of fundamental quantum mechanical principles that undergird so much of modern life and technology.
@@ -48,8 +56,10 @@ Quantum mechanics is currently at a watershed moment. Never before have there be
 
 The complete outline and syllabus for this course, as it would be taught at the University of Alberta during Fall 2021 semester, can be viewed [here](course_outline.pdf).
 
+In June 2022, I presented this course design at the Nanaocanada From Earth to Space Conference in a session titled, "How are we integrating quantum technologies into everyday life?" The video below shows a practice recording of that talk:
+{{< youtube id="zOq5w_l2fe0" title="Quantum Mechanics and You: Connecting to the Everyday" >}}
 
-##### Assignment and Rubric
+##### 2. Assignment and Rubric
 The culminating project of PHYS 111 is an UnEssay, an open-ended project where students engage with the course material in a personally meaningful way. Students select a topic related to the course material that interests them, research it, and then represent their findings in a creative manner[^1].
 
 I have designed this course to scaffold student success. Early on in the semester, they complete the following assignment as they begin to think about and plan for the final project.
@@ -70,7 +80,7 @@ _The purpose of this assignment is to begin crafting a goal and a solid plan for
 The single-point rubric I created for assessing the Topic Selection Document is available [here](rubric.pdf). 
 
 
-##### Multiple Choice Quiz
+##### 3. Multiple Choice Quiz
 To engage with best practices of multiple choice assessment, I wrote the following three questions. While some of these questions have numerical answers, they are conceptual or assess idenfication and recall. 
 
 These and similar questions would appear on one of the three principles quizes taken by PHYS 111 students throughout the semester.
@@ -119,7 +129,7 @@ c) $ 3 / 4 $
 d) $ 1 / 4 $
 {{< /admonition >}}
 
-##### Microteaching Challenge
+##### 4. Microteaching Challenge
 For the microteaching challenge, I designed and delivered a lesson plan which follows best practices of scholarly teaching and learning, all within a compressed, five-minute time frame. The goal was to present the very first class session of PHYS 111: teaching a single concept and giving a flavor of what the course would be like.
 
 

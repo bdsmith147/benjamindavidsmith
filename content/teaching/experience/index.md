@@ -1,10 +1,16 @@
 ---
-title: "Teaching Experience"
+title: ""
 date: 2022-03-26T16:45:45-06:00
 draft: false
 ---
+{{< figure src="experience-banner.png" width=300 alt="Teaching Experience" >}}
 
-I have been involved in various teaching roles since early in my academic career.
+I have been involved in various teaching roles since early in my academic career:
+
+1. [Adjunct Principle Instructor](#adjunct-principle-instructor)
+2. [Teaching Assistant](#teaching-assistant)
+
+___
 
 ### Adjunct Principle Instructor
 Between January to July 2016, I worked as an adjunct principle-instructor at [Brigham Young University-Idaho](https://www.byui.edu/) in Rexburg, Idaho, USA. I was responsible for designing and implementing the course layouts, instruction, and assessments for several classes of 20-30 students each:
@@ -27,12 +33,5 @@ Between January to July 2016, I worked as an adjunct principle-instructor at [Br
 * **PHYS 130**: (Whetlock)[*Fall 2016*]
 * **PHYS 295**: (Freeman)[*Fall 2017*]
 * **PHYS 292**: (LeBlanc)[*Fall 2018*]
+* **PHYS 297**: (Freeman)[*Winter 2022*]
 
-### Student Feedback
-
-[![Like](like.jpg)]({{< ref "teaching/feedback" >}})
-
-<!--
-[{{< image src="like.jpg" alt="Feedback" height=255 class="alignright" >}}]({{< ref "teaching/feedback" >}})
--->
-These are selected, anonymous student feedback comments I've received about my teaching: ...[Continue reading]({{< ref "teaching/feedback" >}})

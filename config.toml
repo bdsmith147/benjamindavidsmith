@@ -1,10 +1,69 @@
 baseURL = "https://www.everydayquantummechanic.com"
 defaultContentLanguage = "en"
 languageCode = "en-us"
+languageName = "English"
 title = 'Benjamin D. Smith · The Everyday Quantum Mechanic'
 theme = 'LoveIt'
 
 enableEmoji = true
+
+# Author config
+[author]
+  name = "Benjamin D. Smith"
+  email = ""
+  link = ""
+  
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = ""
+    weight = 1
+  [[menu.main]]
+    identifier = "about"
+    # you can add extra information before the name (HTML format is supported), such as icons
+    pre = ""
+    # you can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+    name = "About"
+    url = "about/main"
+    # title will be shown when you hover on this menu link
+    title = "About"
+    weight = 2
+  [[menu.main]]
+    identifier = "research"
+    pre = ""
+    post = ""
+    name = "Research"
+    url = "research/main"
+    title = "Research"
+    weight = 3
+  [[menu.main]]
+    identifier = "teaching"
+    pre = ""
+    post = ""
+    name = "Teaching"
+    url = "teaching/main"
+    title = "Teaching"
+    weight = 4
+  [[menu.main]]
+    identifier = "publications"
+    pre = ""
+    post = ""
+    name = "publications"
+    url = "research/publications"
+    title = ""
+    parent = "research"
+    weight = 1
+#  [[menu.main]]
+#    identifier = "posts"
+#    pre = ""
+#    post = ""
+#    name = "Posts"
+#    url = "posts"
+#    title = "Posts"
+#    parent = ""
+#    weight = 4
 
 [params]
   # LoveIt CHANGED | 0.2.0 LoveIt theme version
@@ -39,9 +98,6 @@ enableEmoji = true
     iconColor = "#5bbad5"
     # Windows v8-10 tile color
     tileColor = "#da532c"
-
-  [params.page.math]
-    enable = true
 
   # LoveIt NEW | 0.2.0 Search config
   [params.search]
@@ -102,7 +158,7 @@ enableEmoji = true
     # license info (HTML format is supported)
     license = '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
 
-[params.home]
+  [params.home]
     # LoveIt NEW | 0.2.0 amount of RSS pages
     rss = 10
     # Home page profile
@@ -126,7 +182,38 @@ enableEmoji = true
     [params.home.posts]
       enable = true
       # special amount of posts in each home posts page
-      paginate = 6
+      # paginate = 6
+
+
+  [params.page]
+    lightgallery = true
+    # LoveIt NEW | 0.2.0 whether to enable the ruby extended syntax
+    ruby = true
+    # LoveIt NEW | 0.2.0 whether to enable the fraction extended syntax
+    fraction = true
+    # LoveIt NEW | 0.2.0 whether to enable the fontawesome extended syntax
+    fontawesome = true
+    # whether to show link to Raw Markdown content of the content
+    linkToMarkdown = true
+
+    [params.page.toc]
+     enable = true
+     keepstatic = true
+     auto = true
+
+    [params.page.math]
+      enable = true
+      # LoveIt CHANGED | 0.2.11 default inline delimiter is $ ... $ and \( ... \)
+      inlineLeftDelimiter = ""
+      inlineRightDelimiter = ""
+      # LoveIt CHANGED | 0.2.11 default block delimiter is $$ ... $$, \[ ... \], \begin{equation} ... \end{equation} and some other functions
+      blockLeftDelimiter = ""
+      blockRightDelimiter = ""
+      # KaTeX extension copy_tex
+      copyTex = true
+      # KaTeX extension mhchem
+      mhchem = true
+
 
 # Social config about the author
   [params.social]
@@ -146,53 +233,20 @@ enableEmoji = true
     Email = "bdsmith@ualberta.ca"
     RSS = false #
 
+  # Site verification code config for Google/Bing/Yandex/Pinterest/Baidu
+  [params.verification]
+    google = ""
+    bing = ""
+    yandex = ""
+    pinterest = ""
+    baidu = ""
 
-[menu]
-  [[menu.main]]
-    identifier = "about"
-    # you can add extra information before the name (HTML format is supported), such as icons
-    pre = ""
-    # you can add extra information after the name (HTML format is supported), such as icons
-    post = ""
-    name = "About"
-    url = "about/main"
-    # title will be shown when you hover on this menu link
-    title = "About"
-    weight = 1
-  [[menu.main]]
-    identifier = "research"
-    pre = ""
-    post = ""
-    name = "Research"
-    url = "research/main"
-    title = "Research"
-    weight = 3
-  [[menu.main]]
-    identifier = "teaching"
-    pre = ""
-    post = ""
-    name = "Teaching"
-    url = "teaching/main"
-    title = "Teaching"
-    weight = 2
-  [[menu.main]]
-    identifier = "publications"
-    pre = ""
-    post = ""
-    name = "publications"
-    url = "research/publications"
-    title = ""
-    parent = "research"
-    weight = 1
-#  [[menu.main]]
-#    identifier = "posts"
-#    pre = ""
-#    post = ""
-#    name = "Posts"
-#    url = "posts"
-#    title = "Posts"
-#    parent = ""
-#    weight = 4
+  # LoveIt NEW | 0.2.10 Site SEO config
+  [params.seo]
+    # image URL
+    image = ""
+    # thumbnail URL
+    thumbnailUrl = ""
 
 # Markup related configuration in Hugo
 [markup]
