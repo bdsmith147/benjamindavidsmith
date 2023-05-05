@@ -13,7 +13,7 @@
       <pubDate>Mon, 21 Mar 2022 21:11:55 -0600</pubDate>
       
       <guid>https://www.benjamindavidsmith.com/research/main/</guid>
-      <description>This page is under construction 🛠️ Come back soon!    Symbol Meaning     😎 Rock-star Lay-person description   🤓 Nerd Expert description     Publications Presentations Projects</description>
+      <description>This page is under construction 🛠️ Come back soon!  Publications Presentations Projects</description>
     </item>
     
     <item>
@@ -40,8 +40,10 @@
       <pubDate>Mon, 21 Mar 2022 21:11:55 -0600</pubDate>
       
       <guid>https://www.benjamindavidsmith.com/research/publications/</guid>
-      <description>This page describes some of the research publications I have been priviledged to coauthor. I want all visitors to feel comfortable on this website. To do that, I&amp;rsquo;ll briefly summarize each publication in a way that&amp;rsquo;s targeted to:
- The average cool person 😎, and to Experts in the field 🤓.  1. GPUs for Physics Citation:
+      <description>This page describes some of the research publications I have been priviledged to coauthor.
+1. GPUs for Physics Citation:
+ Smith, Benjamin D., Logan W. Cooke, and Lindsay J. LeBlanc. &amp;ldquo;GPU-accelerated solutions of the nonlinear Schrödinger equation for simulating 2D spinor BECs.&amp;rdquo; Computer Physics Communications 275 (2022): 108314.
+ 2. Faster and Colder Quantum Memory Citation:
  Smith, Benjamin D., Logan W. Cooke, and Lindsay J. LeBlanc. &amp;ldquo;GPU-accelerated solutions of the nonlinear Schrödinger equation for simulating 2D spinor BECs.</description>
     </item>
     
